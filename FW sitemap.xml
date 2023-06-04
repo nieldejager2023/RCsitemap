@@ -1,0 +1,1287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  generator="Inspyder Sitemap Creator 5.1.4"  -->
+<!-- Last Updated 4/06/2023 8:11:53 PM -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd http://www.google.com/schemas/sitemap-mobile/1.0/sitemap-mobile.xsd http://www.google.com/schemas/sitemap-video/1.1/sitemap-video.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://www.fairwork.gov.au/</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/fair-work-ombudsman-employee-homepage.jpg?itok=_JZ0lDb1</image:loc>
+		<image:caption>Image of a female cafe worker smiling at the camera in a busy cafe.</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/find_info_image/public/2021-09/find-help-for-small-business.jpg?itok=r82_X5CU</image:loc>
+		<image:caption>Image of a female cafe worker smiling at the camera in a cafe.</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/media_image/public/2023-05/awr-news-item.png?itok=YNy6W0e0</image:loc>
+		<image:caption>AWR News item</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/inline-images/ILoad1465___Thumb.png</image:loc>
+		<image:caption>cultures</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/pay-wages.jpg?itok=tUsV2QNA</image:loc>
+		<image:caption>Image of a woman in a cafe looking over paperwork while working on her laptop.</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/minimum-wages</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/allowances-penalty-rates-and-other-penalties</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/paying-wages</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/Images/UserUploadedImages/external-icon.png</image:loc>
+		<image:caption>external-icon.png</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/pay-secrecy</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/deducting-pay-and-overpayments</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/stand-downs</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/pay-during-inclement-or-severe-weather-natural-disasters</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/leave-2.jpg?itok=7aBNXxY7</image:loc>
+		<image:caption>Image of a male employer using a tablet in a cafe.</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/tax-and-superannuation</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/annual-leave</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/sick-and-carers-leave</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/maternity-and-parental-leave</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/long-service-leave</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/community-service-leave</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/starting-employment.jpg?itok=VnFdTfmR</image:loc>
+		<image:caption>Image of a young apprentice working in a factory smiling at the camera.</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/job-ads</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/hiring-employees</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/before-starting-employment</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/types-of-employees</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/probation</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/employment-conditions.png?itok=UT5QSylu</image:loc>
+		<image:caption>Image of a male employee leaning over a counter in a restaurant.</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/unpaid-work</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/agreements</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/awards</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/images/UserUploadedImages/151/fwo-icon-awards.png</image:loc>
+		<image:caption>find my award</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/contracts</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/national-employment-standards</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/public-holidays</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/flexibility-in-the-workplace</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/protections-at-work</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/when-businesses-change-owners</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/performance-in-the-workplace</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/industrial-action-and-protests</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/right-of-entry</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/the-role-of-unions</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/bullying-sexual-harassment-and-discrimination-at-work</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/workers-compensation</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/ending-employment</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/ending-employment%20%281%29.jpg?itok=YSSdjQ0i</image:loc>
+		<image:caption>Image of a female employer talking with an employee in an office.</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/media_image/public/2022-07/Workforce%20Australia.jpg?itok=oxTFvhAC</image:loc>
+		<image:caption>Workforce Australia</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/ending-employment/redundancy</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/ending-employment/notice-and-final-pay</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/ending-employment/unfair-dismissal</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/ending-employment/bankruptcy-and-liquidation</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/workplace-problems.jpg?itok=P0hPnPtd</image:loc>
+		<image:caption>Image of a young female employee using her phone in a factory warehouse.</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/preventing-workplace-problems</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/send-us-an-anonymous-tip-off</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/fixing-a-workplace-problem</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/tools-resources.jpg?itok=xSezmquc</image:loc>
+		<image:caption>Image of a male employer working on a construction site while looking at his mobile phone. Icons of a letter, smart phone and tray are also on the image.</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/templates</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/best-practice-guides</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/inline-images/ima-laurel-text-1-bic-large.png</image:loc>
+		<image:caption>ima-laurel-text-1-bic-large</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/inline-images/best-in-class-2015%20%28transparent%29.png</image:loc>
+		<image:caption>best-in-class-2015</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/inline-images/bhg%20%28transparent%29.png</image:loc>
+		<image:caption>bhg</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/record-my-hours-app</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/Images/UserUploadedImages/1025/app-store.gif</image:loc>
+		<image:caption>Download on the App Store</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/web-banner-language.jpg?itok=fohY8SWs</image:loc>
+		<image:caption>Illustration of several different translated languages each reading &apos;Hi&apos; in speech bubbles.</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/find-help-for-horticulture-sector.jpg?itok=PP6kYQ4g</image:loc>
+		<image:caption>Image of a farmer irrigating and watering his crop at sunset.</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/aboriginal-and-torres-strait-islander-people</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/apprentices-and-trainees</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/building-and-construction-industry</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-07/industry-filter-example.jpg</image:loc>
+		<image:caption>Example of industry filter that appears on pages for additional information based on an award</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-08/yw-fb-icon.png</image:loc>
+		<image:caption>Facebook link</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-08/yw-tweet-icon.png</image:loc>
+		<image:caption>Twitter link</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-08/yw-youtube-icon.png</image:loc>
+		<image:caption>YouTube link</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-08/yw-linkedin-icon.png</image:loc>
+		<image:caption>LinkedIn link</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/instagram.png</image:loc>
+		<image:caption>Instagram icon</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/contract-cleaning</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-08/yw-subscribe-icon.png</image:loc>
+		<image:caption>Subscribe to email updates link</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/employees-with-disability</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/fast-food-restaurants-cafes</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/independent-contractors</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/visa-holders-migrants</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/young-workers-and-students</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2022-08/young-workers-banner2.png?itok=4yxB5D0e</image:loc>
+		<image:caption>Young workers and students</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/fair-work-ombudsman-about-us.jpg?itok=41Issiqw</image:loc>
+		<image:caption>Image of a young female worker working in a warehouse wearing a yellow hi-vis vest.</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/our-role-and-purpose</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/our-people</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/compliance-and-enforcement</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/community-assistance</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/legislation</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/accountability</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/careers</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/careers.jpg?itok=EbElctNm</image:loc>
+		<image:caption>Image of a young woman smiling at another person while holding a piece of white paper.</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/contact-us</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/news</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/inline-images/sandra-parker-banner-newsroom.jpg</image:loc>
+		<image:caption>Image of Sandra Parker, the Fair Work Ombudsman.</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/speeches</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/webinars</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-06/webinar-banner3B%20%28002%29.png</image:loc>
+		<image:caption>Banner illustration using icons and people to promote virtual webinars</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/instagram</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-06/instagram-awr-go.png</image:loc>
+		<image:caption>Calculator beside a text box which reads &apos;5.75% increase to minimum award wages&apos;</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-06/instagram-sjbp-6-june.png</image:loc>
+		<image:caption>Image of the upcoming SJBP changes</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/awr-ready.png</image:loc>
+		<image:caption>girl smiling</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/instagram-annualised-wage-arrangements-webinar.png</image:loc>
+		<image:caption>A worker standing next to a paragraph of text which reads &apos;Free webinar: Annualised wage arrangements in the restaurant and hospitality awards - overview and Q and A, 2-2:30pm (AEST) 29 May 2023&apos;</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/instagram-which-unpaid-trial-should-be-paid.png</image:loc>
+		<image:caption>2 workers standing beside text that reads &apos;Which unpaid trial should be paid?&apos;</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/instagram-4.png</image:loc>
+		<image:caption>Man on laptop</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/idahobit-square-tile8.jpg</image:loc>
+		<image:caption>colourful ribbon with text</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/Instagram%20%282%29.png</image:loc>
+		<image:caption>man and disabled employee smiling</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/Red-flags-instagram.png</image:loc>
+		<image:caption>Red flags at work</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/Facebook%20and%20Instagram%20%281%29.png</image:loc>
+		<image:caption>Man earning more</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/instagram-pay-for-meetings.png</image:loc>
+		<image:caption>Social activity in the workplace</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/agriculture-instagram-image.png</image:loc>
+		<image:caption>Picture of a crop</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/Sydney_Precincts_Instagram.png</image:loc>
+		<image:caption>Leave</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/leave-instagram.png</image:loc>
+		<image:caption>Leave</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/instagram-rosters.png</image:loc>
+		<image:caption>Rosters</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/cleaning%20insta_Instagram%2001.png</image:loc>
+		<image:caption>Contract-cleaning</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/Instruments%201.png</image:loc>
+		<image:caption>Minimum-wages</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/instagram-building-and-construction.png</image:loc>
+		<image:caption>information for the building and construction industry</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/Instagram-audits-of-locations-and-industries.png</image:loc>
+		<image:caption>Did you know that Fair Work Inspectors conduct audits of locations and industries</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/Payslip-instagram.png</image:loc>
+		<image:caption>Payslip instagram</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/cleaning-company-and-manager-penalised-instagram.png</image:loc>
+		<image:caption>Cleaning company and former manager penalised media release</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/workplace-essentials-webinar-instagram.png</image:loc>
+		<image:caption>Workplace essentials webinar</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/back-payment-instagram.png</image:loc>
+		<image:caption>Back-payment</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/Status-instagram.png</image:loc>
+		<image:caption>Employment status</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/waiting-for-pay-instagram.png</image:loc>
+		<image:caption>Waiting for pay on pay day</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/Finding%201.png</image:loc>
+		<image:caption>How to find the right award</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/Easter-public-holiday-dates-instagram.png</image:loc>
+		<image:caption>Easter public holiday dates</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/uniforms-vehicle-and-travel-entitlements-instagram.png</image:loc>
+		<image:caption>Extra pay for using your vehicle for work</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/aged-care-increase-instagram.png</image:loc>
+		<image:caption>15% wage increase for the aged care sector</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/instgram-prohibited-jobs-ads.png</image:loc>
+		<image:caption>Prohibited job ads</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/rights-obligations-instagram.png</image:loc>
+		<image:caption>Rights and obligations over Easter holiday period webinar</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/instagram-annual-leave.png</image:loc>
+		<image:caption>Person behind desk dreaming of holiday</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Facebook%20and%20Instagram.png</image:loc>
+		<image:caption>Aged care worker laughing with patient</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Instagram%201.png</image:loc>
+		<image:caption>image of monies recovered</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Instagram.png</image:loc>
+		<image:caption>Four characters are promoting free webinars about workplace rights</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Instagram%2001%20%281%29.png</image:loc>
+		<image:caption>Text displaying recent jmsl penalty media release</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Facebook%20Instagram%20LinkedIn.png</image:loc>
+		<image:caption>Instagram off the books</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Facebook%20Instagram%20.png</image:loc>
+		<image:caption>Picture of who wants to be a millionaire question</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Big%20meet%20instagram.png</image:loc>
+		<image:caption>Cleaning award pay rates instagram</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Cleaning%20award%20pay%20rates%20instagram.png</image:loc>
+		<image:caption>Cleaning award pay rates instagram</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Pregnant%20employees%20instagram.png</image:loc>
+		<image:caption>Pregnant employee instagram</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Instagram%20Felipe.png</image:loc>
+		<image:caption>Horticulture webinar</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Horticulture-webinar.png</image:loc>
+		<image:caption>Horticulture webinar</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Instagram%20Breaks%20are%20a%20workplace%20entitlement.png</image:loc>
+		<image:caption>Breaks are a workplace entitlement Instagram image</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/sjbp-instagram.png</image:loc>
+		<image:caption>Instagram SJBP</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Alarm%20Instagram.png</image:loc>
+		<image:caption>Instagram Alarm</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Students%20Instagram.png</image:loc>
+		<image:caption>Instagram Students</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/Instagram%20report%20a%20workplace%20issue%20anonymously.png</image:loc>
+		<image:caption>Instagram report a workplace issue anonymously</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/media_image/public/2023-02/secure%20jobs%20better%20pay%20instagram.png?itok=EyXfxIqm</image:loc>
+		<image:caption>Webinar instagram</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/flexible-working-arrangements-instagram.png</image:loc>
+		<image:caption>flexible working arrangements instagram</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/Perth%20inspections.png</image:loc>
+		<image:caption>Perth inspections</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/Employment%20contracts%20Instagram.png</image:loc>
+		<image:caption>Employment contracts</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/Sham%20contracting%20instagram.png</image:loc>
+		<image:caption>Sham contracting</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/instagram-pride.png</image:loc>
+		<image:caption>Pride flag</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/instagram-leave-balance.png</image:loc>
+		<image:caption>Leave calculator</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/webinar-register.png</image:loc>
+		<image:caption>Webinar register</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/instagram-probation.png</image:loc>
+		<image:caption>Instagram Probation</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/website-information/accessibility</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/website-information/copyright</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/website-information/disclaimer</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/website-information/privacy</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/contact-us/subscribe-to-email-updates</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2021-09/Subscribe%20to%20email%20updates%20-%20banner.png</image:loc>
+		<image:caption>graphic promoting subscribing to Fair Work Ombudsman email updates</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/arabic</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/auslan</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/simplified-chinese</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/traditional-chinese</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/dari</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/croatian</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/farsi-persian</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/filipino</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/french</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/german</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/greek</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/hindi</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/japanese</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/italian</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/khmer</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/macedonian</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/korean</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/nepali</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/portuguese</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/russian</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/serbian</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/sinhalese</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/somali</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/tamil</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/thai</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/spanish</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/tongan</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/turkish</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/urdu</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/vietnamese</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/ending-employment/notice-and-final-pay/resignation-and-notice</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/ending-employment/notice-and-final-pay/dismissal-and-notice</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/contracting-labour-supply-chains</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/franchises</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/outworkers</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/parents-and-families</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/akam/13/pixel_74482932?a=dD1lYTkxYzNjNThhN2UzMzJmZWU5YWU1MjMxZDYxZDEzYjllNDgyZmU0JmpzPW9mZg==</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/news/awr-2023</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/media_image/public/2023-05/awr-banner-image.png?itok=ZbY-n-pn</image:loc>
+		<image:caption>AWR Banner image</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/news/changes-to-supported-employment-services-award</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-12/SJBP-banner.png</image:loc>
+		<image:caption>Banner illustration with text reading, &apos;Supported Employment Services Award updates&apos;</image:caption>
+	</image:image>
+	<image:image>
+		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-08/yw-tools-icon2.png</image:loc>
+		<image:caption>icon of a document and cog in yellow circle</image:caption>
+	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/news/tools-and-resources-for-6-june-agreement-changes</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases/2023-media-releases/june-2023/20230602-aisha-umma-penalty-media-release</loc>
+	<lastmod>2023-06-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+</urlset>
