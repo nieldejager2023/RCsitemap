@@ -1,1285 +1,4497 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--  generator="Inspyder Sitemap Creator 5.1.4"  -->
-<!-- Last Updated 4/06/2023 8:11:53 PM -->
+<!-- Last Updated 14/07/2023 9:55:01 AM -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd http://www.google.com/schemas/sitemap-mobile/1.0/sitemap-mobile.xsd http://www.google.com/schemas/sitemap-video/1.1/sitemap-video.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.fairwork.gov.au/</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/fair-work-ombudsman-employee-homepage.jpg?itok=_JZ0lDb1</image:loc>
-		<image:caption>Image of a female cafe worker smiling at the camera in a busy cafe.</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/find_info_image/public/2021-09/find-help-for-small-business.jpg?itok=r82_X5CU</image:loc>
-		<image:caption>Image of a female cafe worker smiling at the camera in a cafe.</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/media_image/public/2023-05/awr-news-item.png?itok=YNy6W0e0</image:loc>
-		<image:caption>AWR News item</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/inline-images/ILoad1465___Thumb.png</image:loc>
-		<image:caption>cultures</image:caption>
-	</image:image>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/pay-and-wages</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/pay-wages.jpg?itok=tUsV2QNA</image:loc>
-		<image:caption>Image of a woman in a cafe looking over paperwork while working on her laptop.</image:caption>
-	</image:image>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/pay-and-wages/minimum-wages</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/pay-secrecy</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/pay-and-wages/allowances-penalty-rates-and-other-penalties</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/pay-and-wages/paying-wages</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/Images/UserUploadedImages/external-icon.png</image:loc>
-		<image:caption>external-icon.png</image:caption>
-	</image:image>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/pay-and-wages/pay-secrecy</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/pay-and-wages/deducting-pay-and-overpayments</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
-	<loc>https://www.fairwork.gov.au/pay-and-wages/stand-downs</loc>
-	<lastmod>2023-06-04</lastmod>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/tax-and-superannuation</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/pay-and-wages/pay-during-inclement-or-severe-weather-natural-disasters</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/stand-downs</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/leave</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/leave-2.jpg?itok=7aBNXxY7</image:loc>
-		<image:caption>Image of a male employer using a tablet in a cafe.</image:caption>
-	</image:image>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/pay-and-wages/tax-and-superannuation</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/leave/annual-leave</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/leave/sick-and-carers-leave</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/leave/maternity-and-parental-leave</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/compassionate-and-bereavement-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/sick-and-carers-leave</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/leave/long-service-leave</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/leave/community-service-leave</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/starting-employment</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/starting-employment.jpg?itok=VnFdTfmR</image:loc>
-		<image:caption>Image of a young apprentice working in a factory smiling at the camera.</image:caption>
-	</image:image>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/starting-employment/job-ads</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/starting-employment/hiring-employees</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/job-ads</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/starting-employment/before-starting-employment</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/starting-employment/types-of-employees</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/starting-employment/probation</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/types-of-employees</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/unpaid-work</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/employment-conditions</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/employment-conditions.png?itok=UT5QSylu</image:loc>
-		<image:caption>Image of a male employee leaning over a counter in a restaurant.</image:caption>
-	</image:image>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/starting-employment/unpaid-work</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/employment-conditions/agreements</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/employment-conditions/awards</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/images/UserUploadedImages/151/fwo-icon-awards.png</image:loc>
-		<image:caption>find my award</image:caption>
-	</image:image>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/employment-conditions/contracts</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/employment-conditions/national-employment-standards</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/employment-conditions/public-holidays</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
-	<loc>https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/employment-conditions/flexibility-in-the-workplace</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/employment-conditions/protections-at-work</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/employment-conditions/when-businesses-change-owners</loc>
-	<lastmod>2023-06-04</lastmod>
+	<loc>https://www.fairwork.gov.au/employment-conditions/contracts</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/employment-conditions/performance-in-the-workplace</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
-	<loc>https://www.fairwork.gov.au/employment-conditions/industrial-action-and-protests</loc>
-	<lastmod>2023-06-04</lastmod>
+	<loc>https://www.fairwork.gov.au/employment-conditions/flexibility-in-the-workplace</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
-	<loc>https://www.fairwork.gov.au/employment-conditions/right-of-entry</loc>
-	<lastmod>2023-06-04</lastmod>
+	<loc>https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/protections-at-work</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/when-businesses-change-owners</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/employment-conditions/the-role-of-unions</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/industrial-action-and-protests</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/employment-conditions/bullying-sexual-harassment-and-discrimination-at-work</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/right-of-entry</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/employment-conditions/workers-compensation</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/ending-employment</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/ending-employment%20%281%29.jpg?itok=YSSdjQ0i</image:loc>
-		<image:caption>Image of a female employer talking with an employee in an office.</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/media_image/public/2022-07/Workforce%20Australia.jpg?itok=oxTFvhAC</image:loc>
-		<image:caption>Workforce Australia</image:caption>
-	</image:image>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/ending-employment/redundancy</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/ending-employment/notice-and-final-pay</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/ending-employment/unfair-dismissal</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/ending-employment/bankruptcy-and-liquidation</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/workplace-problems</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/workplace-problems.jpg?itok=P0hPnPtd</image:loc>
-		<image:caption>Image of a young female employee using her phone in a factory warehouse.</image:caption>
-	</image:image>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/workplace-problems/preventing-workplace-problems</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/workplace-problems/send-us-an-anonymous-tip-off</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/workplace-problems/fixing-a-workplace-problem</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/preventing-workplace-problems</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/send-us-an-anonymous-tip-off</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/tools-resources.jpg?itok=xSezmquc</image:loc>
-		<image:caption>Image of a male employer working on a construction site while looking at his mobile phone. Icons of a letter, smart phone and tray are also on the image.</image:caption>
-	</image:image>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/templates</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/tools-and-resources/best-practice-guides</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/best-practice-guides</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/inline-images/ima-laurel-text-1-bic-large.png</image:loc>
-		<image:caption>ima-laurel-text-1-bic-large</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/inline-images/best-in-class-2015%20%28transparent%29.png</image:loc>
-		<image:caption>best-in-class-2015</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/inline-images/bhg%20%28transparent%29.png</image:loc>
-		<image:caption>bhg</image:caption>
-	</image:image>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/record-my-hours-app</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/Images/UserUploadedImages/1025/app-store.gif</image:loc>
-		<image:caption>Download on the App Store</image:caption>
-	</image:image>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/web-banner-language.jpg?itok=fohY8SWs</image:loc>
-		<image:caption>Illustration of several different translated languages each reading &apos;Hi&apos; in speech bubbles.</image:caption>
-	</image:image>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/find-help-for</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/find-help-for-horticulture-sector.jpg?itok=PP6kYQ4g</image:loc>
-		<image:caption>Image of a farmer irrigating and watering his crop at sunset.</image:caption>
-	</image:image>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/find-help-for/aboriginal-and-torres-strait-islander-people</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/dictionary</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/find-help-for/apprentices-and-trainees</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/find-help-for/building-and-construction-industry</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-07/industry-filter-example.jpg</image:loc>
-		<image:caption>Example of industry filter that appears on pages for additional information based on an award</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-08/yw-fb-icon.png</image:loc>
-		<image:caption>Facebook link</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-08/yw-tweet-icon.png</image:loc>
-		<image:caption>Twitter link</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-08/yw-youtube-icon.png</image:loc>
-		<image:caption>YouTube link</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-08/yw-linkedin-icon.png</image:loc>
-		<image:caption>LinkedIn link</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/instagram.png</image:loc>
-		<image:caption>Instagram icon</image:caption>
-	</image:image>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/find-help-for/contract-cleaning</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-08/yw-subscribe-icon.png</image:loc>
-		<image:caption>Subscribe to email updates link</image:caption>
-	</image:image>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/find-help-for/employees-with-disability</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/find-help-for/fast-food-restaurants-cafes</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/find-help-for/independent-contractors</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/fast-food-restaurants-cafes</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/employees-with-disability</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/find-help-for/visa-holders-migrants</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/find-help-for/young-workers-and-students</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2022-08/young-workers-banner2.png?itok=4yxB5D0e</image:loc>
-		<image:caption>Young workers and students</image:caption>
-	</image:image>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/about-us</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/fair-work-ombudsman-about-us.jpg?itok=41Issiqw</image:loc>
-		<image:caption>Image of a young female worker working in a warehouse wearing a yellow hi-vis vest.</image:caption>
-	</image:image>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/about-us/our-role-and-purpose</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/about-us/our-people</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/about-us/compliance-and-enforcement</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/about-us/community-assistance</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/about-us/legislation</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
-	<loc>https://www.fairwork.gov.au/about-us/accountability</loc>
-	<lastmod>2023-06-04</lastmod>
+	<loc>https://www.fairwork.gov.au/about-us/community-assistance</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/about-us/careers</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/banner/public/2021-09/careers.jpg?itok=EbElctNm</image:loc>
-		<image:caption>Image of a young woman smiling at another person while holding a piece of white paper.</image:caption>
-	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/accountability</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/about-us/contact-us</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/newsroom/media-releases</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/newsroom/news</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/newsroom</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/inline-images/sandra-parker-banner-newsroom.jpg</image:loc>
-		<image:caption>Image of Sandra Parker, the Fair Work Ombudsman.</image:caption>
-	</image:image>
 	<mobile:mobile/>
 </url>
 <url>
-	<loc>https://www.fairwork.gov.au/newsroom/speeches</loc>
-	<lastmod>2023-06-04</lastmod>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/news</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/newsroom/webinars</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-06/webinar-banner3B%20%28002%29.png</image:loc>
-		<image:caption>Banner illustration using icons and people to promote virtual webinars</image:caption>
-	</image:image>
 	<mobile:mobile/>
 </url>
 <url>
-	<loc>https://www.fairwork.gov.au/newsroom/instagram</loc>
-	<lastmod>2023-06-04</lastmod>
+	<loc>https://www.fairwork.gov.au/newsroom/speeches</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-06/instagram-awr-go.png</image:loc>
-		<image:caption>Calculator beside a text box which reads &apos;5.75% increase to minimum award wages&apos;</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-06/instagram-sjbp-6-june.png</image:loc>
-		<image:caption>Image of the upcoming SJBP changes</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/awr-ready.png</image:loc>
-		<image:caption>girl smiling</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/instagram-annualised-wage-arrangements-webinar.png</image:loc>
-		<image:caption>A worker standing next to a paragraph of text which reads &apos;Free webinar: Annualised wage arrangements in the restaurant and hospitality awards - overview and Q and A, 2-2:30pm (AEST) 29 May 2023&apos;</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/instagram-which-unpaid-trial-should-be-paid.png</image:loc>
-		<image:caption>2 workers standing beside text that reads &apos;Which unpaid trial should be paid?&apos;</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/instagram-4.png</image:loc>
-		<image:caption>Man on laptop</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/idahobit-square-tile8.jpg</image:loc>
-		<image:caption>colourful ribbon with text</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/Instagram%20%282%29.png</image:loc>
-		<image:caption>man and disabled employee smiling</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/Red-flags-instagram.png</image:loc>
-		<image:caption>Red flags at work</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/Facebook%20and%20Instagram%20%281%29.png</image:loc>
-		<image:caption>Man earning more</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/instagram-pay-for-meetings.png</image:loc>
-		<image:caption>Social activity in the workplace</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/agriculture-instagram-image.png</image:loc>
-		<image:caption>Picture of a crop</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/Sydney_Precincts_Instagram.png</image:loc>
-		<image:caption>Leave</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/leave-instagram.png</image:loc>
-		<image:caption>Leave</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-05/instagram-rosters.png</image:loc>
-		<image:caption>Rosters</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/cleaning%20insta_Instagram%2001.png</image:loc>
-		<image:caption>Contract-cleaning</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/Instruments%201.png</image:loc>
-		<image:caption>Minimum-wages</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/instagram-building-and-construction.png</image:loc>
-		<image:caption>information for the building and construction industry</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/Instagram-audits-of-locations-and-industries.png</image:loc>
-		<image:caption>Did you know that Fair Work Inspectors conduct audits of locations and industries</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/Payslip-instagram.png</image:loc>
-		<image:caption>Payslip instagram</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/cleaning-company-and-manager-penalised-instagram.png</image:loc>
-		<image:caption>Cleaning company and former manager penalised media release</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/workplace-essentials-webinar-instagram.png</image:loc>
-		<image:caption>Workplace essentials webinar</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/back-payment-instagram.png</image:loc>
-		<image:caption>Back-payment</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/Status-instagram.png</image:loc>
-		<image:caption>Employment status</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/waiting-for-pay-instagram.png</image:loc>
-		<image:caption>Waiting for pay on pay day</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/Finding%201.png</image:loc>
-		<image:caption>How to find the right award</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/Easter-public-holiday-dates-instagram.png</image:loc>
-		<image:caption>Easter public holiday dates</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-04/uniforms-vehicle-and-travel-entitlements-instagram.png</image:loc>
-		<image:caption>Extra pay for using your vehicle for work</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/aged-care-increase-instagram.png</image:loc>
-		<image:caption>15% wage increase for the aged care sector</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/instgram-prohibited-jobs-ads.png</image:loc>
-		<image:caption>Prohibited job ads</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/rights-obligations-instagram.png</image:loc>
-		<image:caption>Rights and obligations over Easter holiday period webinar</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/instagram-annual-leave.png</image:loc>
-		<image:caption>Person behind desk dreaming of holiday</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Facebook%20and%20Instagram.png</image:loc>
-		<image:caption>Aged care worker laughing with patient</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Instagram%201.png</image:loc>
-		<image:caption>image of monies recovered</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Instagram.png</image:loc>
-		<image:caption>Four characters are promoting free webinars about workplace rights</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Instagram%2001%20%281%29.png</image:loc>
-		<image:caption>Text displaying recent jmsl penalty media release</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Facebook%20Instagram%20LinkedIn.png</image:loc>
-		<image:caption>Instagram off the books</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Facebook%20Instagram%20.png</image:loc>
-		<image:caption>Picture of who wants to be a millionaire question</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Big%20meet%20instagram.png</image:loc>
-		<image:caption>Cleaning award pay rates instagram</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Cleaning%20award%20pay%20rates%20instagram.png</image:loc>
-		<image:caption>Cleaning award pay rates instagram</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Pregnant%20employees%20instagram.png</image:loc>
-		<image:caption>Pregnant employee instagram</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Instagram%20Felipe.png</image:loc>
-		<image:caption>Horticulture webinar</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Horticulture-webinar.png</image:loc>
-		<image:caption>Horticulture webinar</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Instagram%20Breaks%20are%20a%20workplace%20entitlement.png</image:loc>
-		<image:caption>Breaks are a workplace entitlement Instagram image</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/sjbp-instagram.png</image:loc>
-		<image:caption>Instagram SJBP</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Alarm%20Instagram.png</image:loc>
-		<image:caption>Instagram Alarm</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-03/Students%20Instagram.png</image:loc>
-		<image:caption>Instagram Students</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/Instagram%20report%20a%20workplace%20issue%20anonymously.png</image:loc>
-		<image:caption>Instagram report a workplace issue anonymously</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/media_image/public/2023-02/secure%20jobs%20better%20pay%20instagram.png?itok=EyXfxIqm</image:loc>
-		<image:caption>Webinar instagram</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/flexible-working-arrangements-instagram.png</image:loc>
-		<image:caption>flexible working arrangements instagram</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/Perth%20inspections.png</image:loc>
-		<image:caption>Perth inspections</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/Employment%20contracts%20Instagram.png</image:loc>
-		<image:caption>Employment contracts</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/Sham%20contracting%20instagram.png</image:loc>
-		<image:caption>Sham contracting</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/instagram-pride.png</image:loc>
-		<image:caption>Pride flag</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/instagram-leave-balance.png</image:loc>
-		<image:caption>Leave calculator</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/webinar-register.png</image:loc>
-		<image:caption>Webinar register</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2023-02/instagram-probation.png</image:loc>
-		<image:caption>Instagram Probation</image:caption>
-	</image:image>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/website-information/accessibility</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/instagram</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/website-information/copyright</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/website-information/disclaimer</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/website-information/privacy</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/about-us/contact-us/subscribe-to-email-updates</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2021-09/Subscribe%20to%20email%20updates%20-%20banner.png</image:loc>
-		<image:caption>graphic promoting subscribing to Fair Work Ombudsman email updates</image:caption>
-	</image:image>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/arabic</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/auslan</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/website-information/privacy</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/arabic</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/website-information/disclaimer</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/simplified-chinese</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/traditional-chinese</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/dari</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/croatian</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/farsi-persian</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/dari</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/filipino</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/french</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/german</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/greek</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/hindi</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/japanese</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/italian</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/japanese</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/khmer</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/macedonian</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/korean</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/nepali</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/portuguese</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/russian</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/serbian</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/sinhalese</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/somali</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/tamil</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/thai</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/spanish</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/thai</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/tamil</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/tongan</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/turkish</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/urdu</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/vietnamese</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/urdu</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/ending-employment/notice-and-final-pay/resignation-and-notice</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/ending-employment/notice-and-final-pay/dismissal-and-notice</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/covid-19-and-workplace-laws</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/find-help-for/contracting-labour-supply-chains</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/find-help-for/franchises</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/find-help-for/outworkers</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/find-help-for/parents-and-families</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/akam/13/pixel_74482932?a=dD1lYTkxYzNjNThhN2UzMzJmZWU5YWU1MjMxZDYxZDEzYjllNDgyZmU0JmpzPW9mZg==</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/newsroom/news/awr-2023</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/styles/media_image/public/2023-05/awr-banner-image.png?itok=ZbY-n-pn</image:loc>
-		<image:caption>AWR Banner image</image:caption>
-	</image:image>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/parents-and-families</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/akam/13/pixel_7448292a?a=dD1lYTkxYzNjNThhN2UzMzJmZWU5YWU1MjMxZDYxZDEzYjllNDgyZmU0JmpzPW9mZg==</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/news/fair-work-act-changes-protecting-worker-entitlements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
 	<loc>https://www.fairwork.gov.au/newsroom/news/changes-to-supported-employment-services-award</loc>
-	<lastmod>2023-06-04</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-12/SJBP-banner.png</image:loc>
-		<image:caption>Banner illustration with text reading, &apos;Supported Employment Services Award updates&apos;</image:caption>
-	</image:image>
-	<image:image>
-		<image:loc>https://www.fairwork.gov.au/sites/default/files/2022-08/yw-tools-icon2.png</image:loc>
-		<image:caption>icon of a document and cog in yellow circle</image:caption>
-	</image:image>
-	<mobile:mobile/>
-</url>
-<url>
-	<loc>https://www.fairwork.gov.au/newsroom/news/tools-and-resources-for-6-june-agreement-changes</loc>
-	<lastmod>2023-06-04</lastmod>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
 </url>
 <url>
-	<loc>https://www.fairwork.gov.au/newsroom/media-releases/2023-media-releases/june-2023/20230602-aisha-umma-penalty-media-release</loc>
-	<lastmod>2023-06-04</lastmod>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases/2023-media-releases/july-2023/20230706-territory-tough-litigation-media-release</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/minimum-wages/apprentice-and-trainee-pay-rates</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/minimum-wages/pay-guides</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/minimum-wages/junior-pay-rates</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/minimum-wages/piece-rates-and-commission-payments</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/minimum-wages/annualised-salaries</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/minimum-wages/social-and-community-services-industry-pay-rates</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/minimum-wages/supported-employment-services-award-pay-rates</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/minimum-wages/employees-with-disability-pay-rates</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/minimum-wages</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/407</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/starting-a-new-job</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/penalty-rates</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/overtime-pay</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/allowances</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/uniforms-vehicle-and-travel-entitlements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/paying-wages/frequency-of-pay</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/paying-wages/pay-slips</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/paying-wages/record-keeping</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/464</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/awards/list-of-awards</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/paying-wages/payment-summaries</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/rights-and-obligations/record-keeping-pay-slips</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/348</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/349</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/337</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/347</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/424</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/annual-leave/directing-an-employee-to-take-annual-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/website-information/related-sites</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/rights-and-obligations/employment-entitlements-during-natural-disasters-and-emergencies</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/354</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/767</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/library/K600488_Stand-down-continuous-service-and-accumulation-of-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/library/K600634_National-Employment-Standards-and-stand-down</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/library/K600633_Difference-between-stand-down-unpaid-leave-shut-down</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/types-of-employees/casual-employees</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/hours-of-work</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/annual-leave/directing-an-employee-to-take-annual-leave/direction-to-take-annual-leave-during-a-shut-down</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/public-holidays/2023-public-holidays</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/public-holidays/cultural-religious-holidays</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/public-holidays/not-working-on-public-holidays</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/annual-leave/payment-for-annual-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/annual-leave/taking-annual-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/sick-and-carers-leave/paid-sick-and-carers-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/sick-and-carers-leave/unpaid-carers-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/maternity-and-parental-leave/applying-for-parental-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/sick-and-carers-leave/long-periods-of-sick-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/maternity-and-parental-leave/returning-to-work-from-parental-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/maternity-and-parental-leave/taking-parental-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave/paid-family-and-domestic-violence-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/media/oembed?url=https%3A//youtu.be/1qWVQl622vo&amp;max_width=0&amp;max_height=0&amp;hash=GimZrk3ESnBcWkC6-u4OQ_PqATQMCk5e1TqyTSLlwys</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave/employer-guide-to-family-and-domestic-violence</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave/unpaid-family-and-domestic-violence-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/annual-leave/cashing-out-annual-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/annual-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/357</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/338</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/maternity-and-parental-leave/pregnant-employee-entitlements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/maternity-and-parental-leave/paid-parental-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/maternity-and-parental-leave/parental-leave-for-stillbirth-premature-birth-or-infant-death</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/maternity-and-parental-leave/when-on-parental-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/526</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/employer-checklist-for-parental-leave.pdf</loc>
+	<lastmod>2023-07-03</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/employee-checklist-for-parental-leave.pdf</loc>
+	<lastmod>2023-07-03</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/when-businesses-change-owners/employee-entitlements-on-a-transfer-of-business</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/best-practice-guides/parental-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/parental-leave-and-related-entitlements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/protections-at-work/protection-from-discrimination-at-work</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/bullying-sexual-harassment-and-discrimination-at-work/bullying-in-the-workplace</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/bullying-sexual-harassment-and-discrimination-at-work/sexual-harassment-in-the-workplace</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/360</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/sick-and-carers-leave/paid-sick-and-carers-leave/payment-for-sick-and-carers-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/sick-and-carers-leave/paid-sick-and-carers-leave/notice-and-medical-certificates</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/sick-and-carers-leave-and-compassionate-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/library/K600635_Paid-annual-leave-sick-carer-s-leave-Frequently-Asked-Questions</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/358</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/527</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/766</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave/paid-family-and-domestic-violence-leave/notice-and-evidence-for-paid-family-and-domestic-violence-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave/paid-family-and-domestic-violence-leave/taking-paid-family-and-domestic-violence-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave/unpaid-family-and-domestic-violence-leave/taking-unpaid-family-and-domestic-violence-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave/unpaid-family-and-domestic-violence-leave/notice-and-evidence-for-unpaid-family-and-domestic-violence-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/528</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/530</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/361</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/family-and-domestic-violence-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/long-service-leave/payment-of-long-service-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/449</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/difficult-conversations-in-the-workplace-manager-course</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/difficult-conversations-in-the-workplace-employee-course</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/long-service-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/ending-employment/notice-and-final-pay/final-pay</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/362</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/leave/community-service-leave/jury-duty</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/rights-and-obligations/defence-reservists-rights-and-responsibilities-at-work</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/community-service-leave</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/363</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/types-of-employees/part-time-employees</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/types-of-employees/full-time-employees</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/unpaid-work/unpaid-trials</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/unpaid-work/work-experience-and-internships</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/unpaid-work/student-placements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/712/guide-to-taking-on-an-apprentice.pdf</loc>
+	<lastmod>2023-06-23</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/hiring-employees</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/managing-employees</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Job-advertisement-template.pdf</loc>
+	<lastmod>2023-01-10</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/712/A-guide-to-starting-a-new-job.pdf</loc>
+	<lastmod>2023-02-01</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/national-employment-standards/fair-work-information-statement</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/breaks</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/national-employment-standards/casual-employment-information-statement</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/fixing-a-workplace-problem/workplace-help-in-other-languages/report-a-workplace-issue-in-your-language</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/young-workers-and-students/minimum-working-age</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/339</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/375</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/types-of-employees/shiftworkers</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/types-of-employees/daily-hire-and-weekly-hire</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/types-of-employees/outworkers</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/maximum-weekly-hours</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/402</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/starting-employment/types-of-employees/casual-employees/becoming-a-permanent-employee</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/national-employment-standards/national-employment-standards-videos</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/715/My-employment-checklist.pdf</loc>
+	<lastmod>2023-02-14</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/flexibility-in-the-workplace/flexible-working-arrangements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/406</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/introduction-to-the-national-employment-standards</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/awards/award-and-agreement-free-wages-and-conditions</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/agreements/agreements-made-before-1-jan-2010</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/rights-and-obligations/enterprise-bargaining</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/469</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/414</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/355</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/awards/changes-to-awards-since-2020</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/legislation/the-fair-work-system</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/modern-awards</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/public-holidays/2024-public-holidays</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/public-holidays/2022-public-holidays</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/public-holidays</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/pay-and-wages/penalty-rates-allowances-and-other-payments/penalty-rates/public-holiday-penalty-rates</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/359</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/legislation/norfolk-island</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/366</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/news/secure-jobs-better-pay/pay-secrecy-job-ads-and-flexible-work</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/best-practice-guides/managing-underperformance</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/flexibility-in-the-workplace/individual-flexibility-arrangements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/workplace-flexibility</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/best-practice-guides/flexible-working-arrangements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/managing-performance</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/hours-of-work/when-overtime-applies</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/rostered-days-off</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/rosters</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/rights-and-obligations/protections-at-work</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/487</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/340</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/384</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/the-role-of-unions/union-membership</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/524</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/industrial-action/payment-during-industrial-action</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/520</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/507</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/508</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/workers-compensation/payments-and-leave-while-on-workers-compensation</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/bullying-sexual-harassment-and-discrimination-at-work/sexual-harassment-in-the-workplace/making-a-complaint-about-workplace-sexual-harassment</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/377</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/workers-compensation/ending-employment-during-workers-compensation</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/364</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Termination-of-employment-letter-template-redundancy.pdf</loc>
+	<lastmod>2022-10-07</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/ending-employment/notice-and-final-pay/who-doesn%E2%80%99t-get-notice</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/715/Small-Business-Fair-Dismissal-Code-2011.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/ending-employment/redundancy/redundancy-pay-and-entitlements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/ending-employment/redundancy/who-doesnt-get-redundancy-pay</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/best-practice-guides/consultation-and-cooperation-in-the-workplace</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/382</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/381</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/385</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/383</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/preventing-workplace-problems/know-your-rights-and-obligations</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/rights-and-obligations/non-compliance-with-unfair-dismissal-orders</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/preventing-workplace-problems/stay-up-to-date-with-workplace-law-changes</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems/im-a-migrant-worker-being-treated-unfairly</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems/my-pay-doesnt-seem-right</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems/i-think-ive-underpaid-my-employee</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/preventing-workplace-problems/communication-in-the-workplace</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/fixing-a-workplace-problem/raising-your-problem-in-the-workplace</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/fixing-a-workplace-problem/get-our-help-with-your-workplace-issue</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/fixing-a-workplace-problem/workplace-help-in-other-languages</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems/ive-been-fired-and-im-not-sure-what-im-entitled-to</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems/help-with-bullying-in-the-workplace</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems/i-think-i-could-be-an-employee-not-a-contractor</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems/im-not-getting-pay-slips</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems/my-employee-left-without-giving-notice</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems/im-not-sure-what-to-pay-my-employees</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems/im-not-sure-which-award-covers-my-business</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/378</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/workplace-problems/common-workplace-problems/my-employee-isnt-doing-their-job-properly</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/386</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/notice-of-termination-and-redundancy-pay</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/365</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/best-practice-guides/effective-dispute-resolution</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/356</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Job-description-template.pdf</loc>
+	<lastmod>2023-01-10</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Reference-checking-form.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Notice-to-unsuccessful-applicants.pdf</loc>
+	<lastmod>2023-02-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Telephone-screening-form.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/workplace-laws-for-business-advisers</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Pay-slip-template.pdf</loc>
+	<lastmod>2023-02-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/template-induction-checklist.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2021-09/Starting-a-New-Job-Checklist.pdf</loc>
+	<lastmod>2021-09-24</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Weekly-time-and-wages-record-template.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/staff-meeting-record-template.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Record-of-employee-details.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Part-time-hours-of-work-agreement-variation.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Full-time-hours-of-work-agreement-or-variation-template.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Leave-application-form.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Timesheet-template.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2023-05/notice-of-requirements-to-take-annual-leave-for-temporary-shutdown.pdf</loc>
+	<lastmod>2023-05-01</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/agreement-to-cash-out-annual-leave.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/direction-to-take-excessive-annual-leave.pdf</loc>
+	<lastmod>2022-01-05</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/ageement-to-annual-leave-in-advance.pdf</loc>
+	<lastmod>2022-05-18</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2023-02/offering-casual-conversion-checklist-and-template-letter-sts.pdf</loc>
+	<lastmod>2023-02-03</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2023-02/requesting-casual-conversion-checklist-and-template-letter-sts.pdf</loc>
+	<lastmod>2023-02-03</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/request-for-flexible-working-arrangements-letter-template.pdf</loc>
+	<lastmod>2023-06-02</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2023-02/responding-to-a-casual-conversion-request-checklist-and-template-letter-sts.pdf</loc>
+	<lastmod>2023-02-03</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/MAR-flexibility-request-response-template.pdf</loc>
+	<lastmod>2023-06-05</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Parental-leave-request-template.pdf</loc>
+	<lastmod>2023-07-03</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2021-10/application-to-vary-parental-leave-within-12-months.pdf</loc>
+	<lastmod>2023-07-03</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/request-for-flexible-working-arrangements-example-letters.pdf</loc>
+	<lastmod>2023-06-05</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Extension-of-parental-leave-approval-letter-template.pdf</loc>
+	<lastmod>2023-07-03</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2023-06/request-to-extend-unpaid-parental-leave-beyond-initial-12-months-template-letter-sts.pdf</loc>
+	<lastmod>2023-07-03</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/extension-of-parental-leave-refusal-letter-template.pdf</loc>
+	<lastmod>2023-07-03</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/performance-review-discussion-plan.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/successful-probation-letter-template.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Performance-agreement-template.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/setting-up-a-performance-system-checklist.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/unsuccessful-probation-letter-template.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/managing-underperformance-initial-steps-checklist.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/performance-improvement-plan.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/First-warning-letter-template.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/underperformance-meeting-plan.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/managing-underperformance-formal-steps-checklist.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Final-warning-letter-template.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Termination-of-employment-letter-template-serious-misconduct.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/766/Termination-of-employment-letter-template.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/about-us</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/best-practice-guides/use-of-individual-flexibility-arrangements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/rights-and-obligations</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/unpaid-work</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/best-practice-guides/employing-young-workers</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/best-practice-guides/gender-pay-equity</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/best-practice-guides/workplace-privacy</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/best-practice-guides/small-business-and-the-fair-work-act</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/compliance-notices</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/franchisee-workplace-essentials</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/workplace-laws-for-franchisors</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/diversity-and-discrimination</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/record-keeping-and-pay-slips</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/online-learning-centre/use-our-online-courses-at-your-workplace</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/bahasa-indonesia</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/english</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/language-help/easy-read</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/contact-us/call-us</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/visa-holders-migrants/pacific-australia-labour-mobility-scheme</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/contact-us/online-enquiries</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-fact-sheet-annual-leave.pdf</loc>
+	<lastmod>2023-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/contact-us/write-to-us</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/news/secure-jobs-better-pay-changes-to-australian-workplace-laws</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-fact-sheet-public-holidays.pdf</loc>
+	<lastmod>2023-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-guide-to-starting-a-new-job.pdf</loc>
+	<lastmod>2023-02-08</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-fact-sheet-sick-and-carers-leave.pdf</loc>
+	<lastmod>2023-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-fact-sheet-flexible-working-arrangements.pdf</loc>
+	<lastmod>2023-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-fact-sheet-community-service-and-jury-duty-leave.pdf</loc>
+	<lastmod>2023-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-fact-sheet-compassionate-leave.pdf</loc>
+	<lastmod>2022-08-11</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-fact-sheet-parental-leave.pdf</loc>
+	<lastmod>2023-07-03</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-fact-sheet-time-off-for-sorry-business.pdf</loc>
+	<lastmod>2022-08-11</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-key-message-card-time-off-for-sorry-business.pdf</loc>
+	<lastmod>2022-08-11</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-guide-to-fixing-workplace-problems-with-your-boss.pdf</loc>
+	<lastmod>2023-07-01</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-fact-sheet-ending-employment.pdf</loc>
+	<lastmod>2023-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-fact-sheet-redundancy.pdf</loc>
+	<lastmod>2023-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-fact-sheet-how-can-fwo-help.pdf</loc>
+	<lastmod>2023-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-key-message-card-can-fwo-help.pdf</loc>
+	<lastmod>2023-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-key-message-card-problem-solving.pdf</loc>
+	<lastmod>2023-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-fact-sheet-sorry-business.pdf</loc>
+	<lastmod>2022-08-11</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-fact-sheet-problem-solving-with-your-workers.pdf</loc>
+	<lastmod>2023-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-08/aboriginal-and-torres-strait-islander-peoples-key-message-card-sorry-business.pdf</loc>
+	<lastmod>2023-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/252/FWO-Reconciliation-Action-Plan.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/a</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/b</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/e</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/c</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/d</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/f</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/g</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/h</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/i</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/j</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/l</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/m</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/p</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/n</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/o</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/r</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/s</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/t</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/v</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/w</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/u</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/dictionary/z</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/468</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/471</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/497</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/498</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/496</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/476</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/480</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/495</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/492</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/490</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/501</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/466</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/474</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/478</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/481</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/484</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/485</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/486</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/488</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/489</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/491</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/493</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/509</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/525</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/510</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/511</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/512</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/513</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/514</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/515</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/502</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/516</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/517</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/518</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/519</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/503</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/522</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/462</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/463</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/465</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/470</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/467</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/472</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/473</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/475</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/479</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/477</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/482</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/483</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/420</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/422</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/423</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/426</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/428</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/430</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/431</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/432</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/433</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/434</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/436</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/393</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/392</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/395</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/397</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/504</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/494</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/505</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/409</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/404</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/412</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/506</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/413</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/419</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/417</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/437</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/443</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/439</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/440</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/444</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/445</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/447</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/448</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/396</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/450</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/394</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/768</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/398</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/399</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/400</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/401</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/403</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/405</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/408</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/410</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/446</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/411</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/451</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/452</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/529</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/453</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/454</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/523</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/455</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/456</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/457</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/458</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/764</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/459</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/461</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/460</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/499</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/415</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/416</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/418</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/521</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/421</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/425</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/427</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/435</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/429</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/438</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/500</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/441</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/442</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/taxonomy/term/765</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/apprentices-and-trainees/apprentice-entitlements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/apprentices-and-trainees/trainee-entitlements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/library/K600437_Part-time-apprenticeships</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/awards/awards-summary/ma000020-summary</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/awards/awards-summary/ma000025-summary</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2023-04/frequently-asked-questions-contract-cleaning-fqs.pdf</loc>
+	<lastmod>2023-07-01</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/awards/awards-summary/ma000036-summary</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/employment-conditions/awards/awards-summary/ma000032-summary</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/contract-cleaning/entitlements-for-employees-under-the-cleaning-award</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/contract-cleaning/resolving-issues-in-contract-cleaning</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/independent-contractors/gig-economy</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/our-role-and-purpose/our-priorities</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/fast-food-restaurants-cafes/fast-food-industry</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/fast-food-restaurants-cafes/restaurant-cafes-industry</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/fast-food-restaurants-cafes/common-questions-fast-food-restaurant-industries</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/rights-and-obligations/visa-holders-and-migrant-workers-workplace-rights-and-entitlements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/visa-holders-migrants/visa-protections-the-assurance-protocol</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/rights-and-obligations/482-and-457-visa-holders-workplace-rights-and-entitlements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/rights-and-obligations/international-students</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/unpaid-work/student-placements</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/young-workers-and-students/pay-entitlements-and-working-conditions</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/young-workers-and-students/dealing-with-workplace-bullying-sexual-harassment-and-discrimination-as-a-young-person</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/725/fwo-purpose.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/young-workers-and-students/get-ready-for-work</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/725/compliance-and-enforcement-policy.pdf</loc>
+	<lastmod>2021-08-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/young-workers-and-students/resolving-issues-and-getting-help</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-01/fwo-ministerial-statement-of-expectations-2021.pdf</loc>
+	<lastmod>2022-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-01/fwo-regulator-statement-of-intent-2021.pdf</loc>
+	<lastmod>2022-01-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/our-role-and-purpose/fair-work-commission-how-were-different</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/our-role-and-purpose/our-priorities/corporate-plan</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/accountability/our-policies</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2023-01/fwo-organisational-chart-25-january-2023.pdf</loc>
+	<lastmod>2023-01-27</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/compliance-and-enforcement/workplace-investigations</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/compliance-and-enforcement/litigation</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/tools-and-resources/fact-sheets/about-us/infringement-notices</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/our-people/sandra-parker-the-fair-work-ombudsman</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/compliance-and-enforcement/compliance-notices</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/compliance-and-enforcement/infringement-notices</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/compliance-and-enforcement/proactive-investigations</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/compliance-and-enforcement/inquiries</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/compliance-and-enforcement/compliance-partnerships</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/compliance-and-enforcement/reporting-outcomes</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/compliance-and-enforcement/enforceable-undertakings</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/community-assistance/community-engagement-grants-program</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/compliance-and-enforcement/reporting-outcomes/inquiry-reports</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/legislation/protecting-vulnerable-workers-reform</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/legislation/road-safety-remuneration-system</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/legislation/corrupting-benefits</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/careers/choosing-us</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/careers/current-vacancies</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/accountability/accessing-our-information</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/accountability/public-interest-disclosures</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/accountability/annual-reports</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/accountability/reporting-to-parliament</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/accountability/fraud-and-corruption</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-10/aps08511-fworoce-public-release.pdf</loc>
+	<lastmod>2022-10-25</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/accountability/research-reports</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/contact-us/offices</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/2022-02/an-employers-guide-to-resolving-workplace-issues.pdf</loc>
+	<lastmod>2022-04-08</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/712/an-employees-guide-to-resolving-workplace-issues.pdf</loc>
+	<lastmod>2023-07-01</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/covid-19-and-workplace-laws/covid-19-vaccinations</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/find-help-for/covid-19-and-workplace-laws/covid-19-testing</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/accountability/submissions</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/sites/default/files/migration/725/fwo-media-policy.pdf</loc>
+	<lastmod>2023-07-04</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/about-us/contact-us/online-enquiries/frequently-asked-questions-about-my-account</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/news/changes-to-the-paid-parental-leave-scheme</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases/2023-media-releases/july-2023/20230706-byc-litigation-media-release</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases/2023-media-releases/july-2023/20230705-nq-powertrain-penalty-media-release</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/news-and-media-search</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/news/secure-jobs-better-pay/abolition-abcc-and-roc</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/news/secure-jobs-better-pay/gender-equality-measures-and-small-claims-process</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases/2023-media-releases/june-2023/20230630-annual-wage-review-2023-media-release</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases/2023-media-releases/june-2023/20230629-checs-litigation-media-release</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases/2023-media-releases/june-2023/20230629-niyamat-litigation-media-release</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases/archived-media-releases</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases/2023-media-releases/june-2023/20230628-cg-smith-second-penalty-media-release</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases/2023-media-releases/june-2023/20230628-gietzel-litigation-media-release</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases/2023-media-releases/june-2023/20230622-crown-eu-media-release</loc>
+	<lastmod>2023-07-13</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+	<mobile:mobile/>
+</url>
+<url>
+	<loc>https://www.fairwork.gov.au/newsroom/media-releases/2023-media-releases/june-2023/20230627-lotus-farm-litigation-media-release</loc>
+	<lastmod>2023-07-13</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
 	<mobile:mobile/>
